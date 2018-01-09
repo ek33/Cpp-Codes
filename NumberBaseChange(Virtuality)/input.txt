@@ -1,0 +1,4 @@
+Dec 56
+Hex 35fa
+Bin 10111001
+Oct 753
