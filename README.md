@@ -1,5 +1,5 @@
 # C++ Codes
-This repository includes the codes which are written in C++. The majority is consisted of my previous assignments but there is also my solution for the "Flower Games" question from "IEEEXtreme 10.0 Programming Competition".
+This repository includes the codes which are written in C++. The majority is consisted of my previous assignments but there is also my solution for the "Flower Games" question from "IEEEXtreme 10.0 Programming Competition". The .pdf files in each project explain that project.
 ### Library Software
 An object oriented project that makes the necessary transactions for a library
 ### Image Manipulation
